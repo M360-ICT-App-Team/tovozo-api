@@ -1,52 +1,50 @@
 {
     "success": true,
     "data": [
-        [
-            {
-                "id": 1,
-                "title": "Room Cleaning",
-                "company": "Grand London Hotel",
-                "address": "22 Park Lane, London W1K 1BE, UK",
-                "location": "https://maps.google.com/?q=51.507351,-0.127758",
-                "dateTime": "2025-06-16T10:00:00",
-                "rate": 12.5
-            },
-            {
-                "id": 2,
-                "title": "Waiter",
-                "company": "The Ritz London",
-                "address": "150 Piccadilly, St. James's, London W1J 9BR, UK",
-                "location": "https://maps.google.com/?q=51.507994,-0.141588",
-                "dateTime": "2025-06-16T17:00:00",
-                "rate": 13.0
-            },
-            {
-                "id": 3,
-                "title": "Laundry Assistant",
-                "company": "The Savoy Hotel",
-                "address": "Strand, London WC2R 0EZ, UK",
-                "location": "https://maps.google.com/?q=51.510067,-0.120564",
-                "dateTime": "2025-06-17T09:30:00",
-                "rate": 11.75
-            },
-            {
-                "id": 4,
-                "title": "Hotel Servicing",
-                "company": "Corinthia Hotel",
-                "address": "Whitehall Place, London SW1A 2BD, UK",
-                "location": "https://maps.google.com/?q=51.506567,-0.124019",
-                "dateTime": "2025-06-18T14:00:00",
-                "rate": 14.25
-            },
-            {
-                "id": 5,
-                "title": "Cleaner",
-                "company": "Hilton London Metropole",
-                "address": "225 Edgware Rd, London W2 1JU, UK",
-                "location": "https://maps.google.com/?q=51.519457,-0.169472",
-                "dateTime": "2025-06-19T08:00:00",
-                "rate": 12.0
-            }
-        ]
+        {
+            "id": 1,
+            "title": "Room Cleaning",
+            "company": "Grand London Hotel",
+            "address": "22 Park Lane, London W1K 1BE, UK",
+            "location": "https://maps.google.com/?q=51.507351,-0.127758",
+            "dateTime": "2025-06-16T10:00:00",
+            "rate": 12.5
+        },
+        {
+            "id": 2,
+            "title": "Waiter",
+            "company": "The Ritz London",
+            "address": "150 Piccadilly, St. James's, London W1J 9BR, UK",
+            "location": "https://maps.google.com/?q=51.507994,-0.141588",
+            "dateTime": "2025-06-16T17:00:00",
+            "rate": 13.0
+        },
+        {
+            "id": 3,
+            "title": "Laundry Assistant",
+            "company": "The Savoy Hotel",
+            "address": "Strand, London WC2R 0EZ, UK",
+            "location": "https://maps.google.com/?q=51.510067,-0.120564",
+            "dateTime": "2025-06-17T09:30:00",
+            "rate": 11.75
+        },
+        {
+            "id": 4,
+            "title": "Hotel Servicing",
+            "company": "Corinthia Hotel",
+            "address": "Whitehall Place, London SW1A 2BD, UK",
+            "location": "https://maps.google.com/?q=51.506567,-0.124019",
+            "dateTime": "2025-06-18T14:00:00",
+            "rate": 14.25
+        },
+        {
+            "id": 5,
+            "title": "Cleaner",
+            "company": "Hilton London Metropole",
+            "address": "225 Edgware Rd, London W2 1JU, UK",
+            "location": "https://maps.google.com/?q=51.519457,-0.169472",
+            "dateTime": "2025-06-19T08:00:00",
+            "rate": 12.0
+        }
     ]
 }
