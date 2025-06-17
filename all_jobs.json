@@ -7,9 +7,10 @@
       "hotel": "Grand London Hotel",
       "hotel_icon": "",
       "address": "22 Park Lane, London W1K 1BE, UK",
-      "location": "https://maps.app.goo.gl/ComoRbJNFTXidMVH8",
       "dateTime": "2025-06-16T10:00:00",
-      "rate": 12.5
+      "rate": 12.5,
+      "latitude": 51.507563,
+      "longitude": -0.153321
     },
     {
       "id": 2,
@@ -17,9 +18,10 @@
       "hotel": "The Ritz London",
       "hotel_icon": "",
       "address": "150 Piccadilly, St. James's, London W1J 9BR, UK",
-      "location": "https://maps.app.goo.gl/QpjAXPgyNzkQpYXL6",
       "dateTime": "2025-06-17T08:00:00",
-      "rate": 14.0
+      "rate": 14.0,
+      "latitude": 51.507009,
+      "longitude": -0.141588
     },
     {
       "id": 3,
@@ -27,9 +29,10 @@
       "hotel": "The Savoy Hotel",
       "hotel_icon": "",
       "address": "Strand, London WC2R 0EZ, UK",
-      "location": "https://maps.app.goo.gl/UEDzjZ5hF5qSYsC99",
       "dateTime": "2025-06-17T09:30:00",
-      "rate": 13.0
+      "rate": 13.0,
+      "latitude": 51.510067,
+      "longitude": -0.120509
     },
     {
       "id": 4,
@@ -37,9 +40,10 @@
       "hotel": "Claridge's",
       "hotel_icon": "",
       "address": "Brook Street, Mayfair, London W1K 4HR, UK",
-      "location": "https://maps.app.goo.gl/3Rgq8AhLQnSDJ5KQ6",
       "dateTime": "2025-06-18T14:00:00",
-      "rate": 15.5
+      "rate": 15.5,
+      "latitude": 51.512265,
+      "longitude": -0.147924
     },
     {
       "id": 5,
@@ -47,9 +51,10 @@
       "hotel": "The Langham London",
       "hotel_icon": "",
       "address": "1C Portland Place, Regent Street, London W1B 1JA, UK",
-      "location": "https://maps.app.goo.gl/cgWgs7rzt7PPqzL79",
       "dateTime": "2025-06-16T18:00:00",
-      "rate": 12.0
+      "rate": 12.0,
+      "latitude": 51.517605,
+      "longitude": -0.143663
     },
     {
       "id": 6,
@@ -57,9 +62,10 @@
       "hotel": "InterContinental London Park Lane",
       "hotel_icon": "",
       "address": "1 Hamilton Pl, Park Ln, London W1J 7QY, UK",
-      "location": "https://maps.app.goo.gl/UP7YG6qBMqHM6SeP7",
       "dateTime": "2025-06-19T07:00:00",
-      "rate": 11.5
+      "rate": 11.5,
+      "latitude": 51.504708,
+      "longitude": -0.150050
     },
     {
       "id": 7,
@@ -67,9 +73,10 @@
       "hotel": "Hilton London Metropole",
       "hotel_icon": "",
       "address": "225 Edgware Rd, London W2 1JU, UK",
-      "location": "https://maps.app.goo.gl/8V5fKqMz6D3rNYeh6",
       "dateTime": "2025-06-16T16:00:00",
-      "rate": 10.5
+      "rate": 10.5,
+      "latitude": 51.519144,
+      "longitude": -0.170116
     },
     {
       "id": 8,
@@ -77,9 +84,10 @@
       "hotel": "The Dorchester",
       "hotel_icon": "",
       "address": "53 Park Ln, London W1K 1QA, UK",
-      "location": "https://maps.app.goo.gl/PTrBoWTY5FvzkVjJ9",
       "dateTime": "2025-06-17T19:00:00",
-      "rate": 13.2
+      "rate": 13.2,
+      "latitude": 51.507779,
+      "longitude": -0.152457
     },
     {
       "id": 9,
@@ -87,9 +95,10 @@
       "hotel": "The May Fair Hotel",
       "hotel_icon": "",
       "address": "Stratton St, Mayfair, London W1J 8LT, UK",
-      "location": "https://maps.app.goo.gl/G4q9R8VQ4TY3Vg9K9",
       "dateTime": "2025-06-18T11:00:00",
-      "rate": 16.0
+      "rate": 16.0,
+      "latitude": 51.507087,
+      "longitude": -0.141649
     },
     {
       "id": 10,
@@ -97,19 +106,21 @@
       "hotel": "Hotel Café Royal",
       "hotel_icon": "",
       "address": "68 Regent St, London W1B 4DY, UK",
-      "location": "https://maps.app.goo.gl/KcMLiBW3xNk8fsUk9",
       "dateTime": "2025-06-19T09:00:00",
-      "rate": 12.0
-    },    
+      "rate": 12.0,
+      "latitude": 51.510709,
+      "longitude": -0.135569
+    },
     {
       "id": 11,
       "title": "Night Shift Security",
       "hotel": "Holiday Inn London - Camden Lock",
       "hotel_icon": "",
       "address": "30 Jamestown Rd, London NW1 7BY, UK",
-      "location": "https://maps.app.goo.gl/mrJjP5MQoJXYpcYy6",
       "dateTime": "2025-07-01T22:00:00",
-      "rate": 13.8
+      "rate": 13.8,
+      "latitude": 51.541315,
+      "longitude": -0.147540
     }
   ]
 }

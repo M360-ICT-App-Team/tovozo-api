@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "data": [
+    {
+      "category_id": 1,
+      "category_name": "Housekeeping",
+      "available_jobs": 30
+    },
+    {
+      "category_id": 2,
+      "category_name": "Front Desk",
+      "available_jobs": 15
+    },
+    {
+      "category_id": 3,
+      "category_name": "Food & Beverage",
+      "available_jobs": 27
+    },
+    {
+      "category_id": 4,
+      "category_name": "Concierge & Porter",
+      "available_jobs": 22
+    },
+    {
+      "category_id": 5,
+      "category_name": "Security",
+      "available_jobs": 13
+    },
+    {
+      "category_id": 6,
+      "category_name": "Kitchen",
+      "available_jobs": 18
+    },
+    {
+      "category_id": 7,
+      "category_name": "Supervisory Roles",
+      "available_jobs": 19
+    }
+  ]
+}
