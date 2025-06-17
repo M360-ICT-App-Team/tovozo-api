@@ -2,139 +2,20 @@
   "success": true,
   "data": [
     {
-      "id": 1,
-      "title": "Room Cleaning",
-      "hotel": "Grand London Hotel",
+      "id": 11,
+      "title": "Night Shift Security",
+      "hotel": "Holiday Inn London - Camden Lock",
       "hotel_icon": "",
-      "address": "22 Park Lane, London W1K 1BE, UK",
-      "dateTime": "2025-06-16T10:00:00",
-      "rate": 12.5,
-      "latitude": 51.507563,
-      "longitude": -0.153321,
+      "address": "30 Jamestown Rd, London NW1 7BY, UK",
+      "date_time": "2025-07-01T22:00:00",
+      "rate": 13.8,
+      "latitude": 51.541315,
+      "longitude": -0.147540,
       "category": {
-        "category_id": 1,
-        "category_name": "Housekeeping"
-      }
-    },
-    {
-      "id": 2,
-      "title": "Front Desk Assistant",
-      "hotel": "The Ritz London",
-      "hotel_icon": "",
-      "address": "150 Piccadilly, St. James's, London W1J 9BR, UK",
-      "dateTime": "2025-06-17T08:00:00",
-      "rate": 14.0,
-      "latitude": 51.507009,
-      "longitude": -0.141588,
-      "category": {
-        "category_id": 2,
-        "category_name": "Front Desk"
-      }
-    },
-    {
-      "id": 3,
-      "title": "Housekeeper",
-      "hotel": "The Savoy Hotel",
-      "hotel_icon": "",
-      "address": "Strand, London WC2R 0EZ, UK",
-      "dateTime": "2025-06-17T09:30:00",
-      "rate": 13.0,
-      "latitude": 51.510067,
-      "longitude": -0.120509,
-      "category": {
-        "category_id": 1,
-        "category_name": "Housekeeping"
-      }
-    },
-    {
-      "id": 4,
-      "title": "Concierge",
-      "hotel": "Claridge's",
-      "hotel_icon": "",
-      "address": "Brook Street, Mayfair, London W1K 4HR, UK",
-      "dateTime": "2025-06-18T14:00:00",
-      "rate": 15.5,
-      "latitude": 51.512265,
-      "longitude": -0.147924,
-      "category": {
-        "category_id": 4,
-        "category_name": "Concierge & Porter"
-      }
-    },
-    {
-      "id": 5,
-      "title": "Waiter",
-      "hotel": "The Langham London",
-      "hotel_icon": "",
-      "address": "1C Portland Place, Regent Street, London W1B 1JA, UK",
-      "dateTime": "2025-06-16T18:00:00",
-      "rate": 12.0,
-      "latitude": 51.517605,
-      "longitude": -0.143663,
-      "category": {
-        "category_id": 3,
-        "category_name": "Food & Beverage"
-      }
-    },
-    {
-      "id": 6,
-      "title": "Porter",
-      "hotel": "InterContinental London Park Lane",
-      "hotel_icon": "",
-      "address": "1 Hamilton Pl, Park Ln, London W1J 7QY, UK",
-      "dateTime": "2025-06-19T07:00:00",
-      "rate": 11.5,
-      "latitude": 51.504708,
-      "longitude": -0.150050,
-      "category": {
-        "category_id": 4,
-        "category_name": "Concierge & Porter"
-      }
-    },
-    {
-      "id": 7,
-      "title": "Kitchen Assistant",
-      "hotel": "Hilton London Metropole",
-      "hotel_icon": "",
-      "address": "225 Edgware Rd, London W2 1JU, UK",
-      "dateTime": "2025-06-16T16:00:00",
-      "rate": 10.5,
-      "latitude": 51.519144,
-      "longitude": -0.170116,
-      "category": {
-        "category_id": 3,
-        "category_name": "Food & Beverage"
-      }
-    },
-    {
-      "id": 8,
-      "title": "Bar Staff",
-      "hotel": "The Dorchester",
-      "hotel_icon": "",
-      "address": "53 Park Ln, London W1K 1QA, UK",
-      "dateTime": "2025-06-17T19:00:00",
-      "rate": 13.2,
-      "latitude": 51.507779,
-      "longitude": -0.152457,
-      "category": {
-        "category_id": 3,
-        "category_name": "Food & Beverage"
-      }
-    },
-    {
-      "id": 9,
-      "title": "Cleaning Supervisor",
-      "hotel": "The May Fair Hotel",
-      "hotel_icon": "",
-      "address": "Stratton St, Mayfair, London W1J 8LT, UK",
-      "dateTime": "2025-06-18T11:00:00",
-      "rate": 16.0,
-      "latitude": 51.507087,
-      "longitude": -0.141649,
-      "category": {
-        "category_id": 1,
-        "category_name": "Housekeeping"
-      }
+        "category_id": 5,
+        "category_name": "Security"
+      },
+      "created_at": "2025-06-17T12:00:00"
     },
     {
       "id": 10,
@@ -142,29 +23,159 @@
       "hotel": "Hotel Café Royal",
       "hotel_icon": "",
       "address": "68 Regent St, London W1B 4DY, UK",
-      "dateTime": "2025-06-19T09:00:00",
+      "date_time": "2025-06-19T09:00:00",
       "rate": 12.0,
       "latitude": 51.510709,
       "longitude": -0.135569,
       "category": {
         "category_id": 4,
         "category_name": "Concierge & Porter"
-      }
+      },
+      "created_at": "2025-06-17T11:00:00"
     },
     {
-      "id": 11,
-      "title": "Night Shift Security",
-      "hotel": "Holiday Inn London - Camden Lock",
+      "id": 9,
+      "title": "Cleaning Supervisor",
+      "hotel": "The May Fair Hotel",
       "hotel_icon": "",
-      "address": "30 Jamestown Rd, London NW1 7BY, UK",
-      "dateTime": "2025-07-01T22:00:00",
-      "rate": 13.8,
-      "latitude": 51.541315,
-      "longitude": -0.147540,
+      "address": "Stratton St, Mayfair, London W1J 8LT, UK",
+      "date_time": "2025-06-18T11:00:00",
+      "rate": 16.0,
+      "latitude": 51.507087,
+      "longitude": -0.141649,
       "category": {
-        "category_id": 5,
-        "category_name": "Security"
-      }
+        "category_id": 1,
+        "category_name": "Housekeeping"
+      },
+      "created_at": "2025-06-17T10:00:00"
+    },
+    {
+      "id": 8,
+      "title": "Bar Staff",
+      "hotel": "The Dorchester",
+      "hotel_icon": "",
+      "address": "53 Park Ln, London W1K 1QA, UK",
+      "date_time": "2025-06-17T19:00:00",
+      "rate": 13.2,
+      "latitude": 51.507779,
+      "longitude": -0.152457,
+      "category": {
+        "category_id": 3,
+        "category_name": "Food & Beverage"
+      },
+      "created_at": "2025-06-17T09:30:00"
+    },
+    {
+      "id": 7,
+      "title": "Kitchen Assistant",
+      "hotel": "Hilton London Metropole",
+      "hotel_icon": "",
+      "address": "225 Edgware Rd, London W2 1JU, UK",
+      "date_time": "2025-06-16T16:00:00",
+      "rate": 10.5,
+      "latitude": 51.519144,
+      "longitude": -0.170116,
+      "category": {
+        "category_id": 3,
+        "category_name": "Food & Beverage"
+      },
+      "created_at": "2025-06-17T09:00:00"
+    },
+    {
+      "id": 6,
+      "title": "Porter",
+      "hotel": "InterContinental London Park Lane",
+      "hotel_icon": "",
+      "address": "1 Hamilton Pl, Park Ln, London W1J 7QY, UK",
+      "date_time": "2025-06-19T07:00:00",
+      "rate": 11.5,
+      "latitude": 51.504708,
+      "longitude": -0.150050,
+      "category": {
+        "category_id": 4,
+        "category_name": "Concierge & Porter"
+      },
+      "created_at": "2025-06-17T08:30:00"
+    },
+    {
+      "id": 5,
+      "title": "Waiter",
+      "hotel": "The Langham London",
+      "hotel_icon": "",
+      "address": "1C Portland Place, Regent Street, London W1B 1JA, UK",
+      "date_time": "2025-06-16T18:00:00",
+      "rate": 12.0,
+      "latitude": 51.517605,
+      "longitude": -0.143663,
+      "category": {
+        "category_id": 3,
+        "category_name": "Food & Beverage"
+      },
+      "created_at": "2025-06-17T08:00:00"
+    },
+    {
+      "id": 4,
+      "title": "Concierge",
+      "hotel": "Claridge's",
+      "hotel_icon": "",
+      "address": "Brook Street, Mayfair, London W1K 4HR, UK",
+      "date_time": "2025-06-18T14:00:00",
+      "rate": 15.5,
+      "latitude": 51.512265,
+      "longitude": -0.147924,
+      "category": {
+        "category_id": 4,
+        "category_name": "Concierge & Porter"
+      },
+      "created_at": "2025-06-17T07:30:00"
+    },
+    {
+      "id": 3,
+      "title": "Housekeeper",
+      "hotel": "The Savoy Hotel",
+      "hotel_icon": "",
+      "address": "Strand, London WC2R 0EZ, UK",
+      "date_time": "2025-06-17T09:30:00",
+      "rate": 13.0,
+      "latitude": 51.510067,
+      "longitude": -0.120509,
+      "category": {
+        "category_id": 1,
+        "category_name": "Housekeeping"
+      },
+      "created_at": "2025-06-17T07:00:00"
+    },
+    {
+      "id": 2,
+      "title": "Front Desk Assistant",
+      "hotel": "The Ritz London",
+      "hotel_icon": "",
+      "address": "150 Piccadilly, St. James's, London W1J 9BR, UK",
+      "date_time": "2025-06-17T08:00:00",
+      "rate": 14.0,
+      "latitude": 51.507009,
+      "longitude": -0.141588,
+      "category": {
+        "category_id": 2,
+        "category_name": "Front Desk"
+      },
+      "created_at": "2025-06-17T06:30:00"
+    },
+    {
+      "id": 1,
+      "title": "Room Cleaning",
+      "hotel": "Grand London Hotel",
+      "hotel_icon": "",
+      "address": "22 Park Lane, London W1K 1BE, UK",
+      "date_time": "2025-06-16T10:00:00",
+      "rate": 12.5,
+      "latitude": 51.507563,
+      "longitude": -0.153321,
+      "category": {
+        "category_id": 1,
+        "category_name": "Housekeeping"
+      },
+      "created_at": "2025-06-17T06:00:00"
     }
   ]
 }
