@@ -10,7 +10,11 @@
       "dateTime": "2025-06-16T10:00:00",
       "rate": 12.5,
       "latitude": 51.507563,
-      "longitude": -0.153321
+      "longitude": -0.153321,
+      "category": {
+        "category_id": 1,
+        "category_name": "Housekeeping"
+      }
     },
     {
       "id": 2,
@@ -21,7 +25,11 @@
       "dateTime": "2025-06-16T17:00:00",
       "rate": 13.0,
       "latitude": 51.507009,
-      "longitude": -0.141588
+      "longitude": -0.141588,
+      "category": {
+        "category_id": 3,
+        "category_name": "Food & Beverage"
+      }
     },
     {
       "id": 3,
@@ -32,7 +40,11 @@
       "dateTime": "2025-06-17T09:30:00",
       "rate": 11.75,
       "latitude": 51.510067,
-      "longitude": -0.120509
+      "longitude": -0.120509,
+      "category": {
+        "category_id": 1,
+        "category_name": "Housekeeping"
+      }
     },
     {
       "id": 4,
@@ -43,7 +55,11 @@
       "dateTime": "2025-06-18T14:00:00",
       "rate": 14.25,
       "latitude": 51.505965,
-      "longitude": -0.123777
+      "longitude": -0.123777,
+      "category": {
+        "category_id": 4,
+        "category_name": "Concierge & Porter"
+      }
     },
     {
       "id": 5,
@@ -54,7 +70,11 @@
       "dateTime": "2025-06-19T08:00:00",
       "rate": 12.0,
       "latitude": 51.519144,
-      "longitude": -0.170116
+      "longitude": -0.170116,
+      "category": {
+        "category_id": 1,
+        "category_name": "Housekeeping"
+      }
     }
   ]
 }
